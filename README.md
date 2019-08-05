@@ -4,7 +4,7 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/amesk3/scoopsProject`
+- Clone this repo to your local machine using `https://github.com/amesk3/scoopsAhoyProject`
 
 ## Installation/Set up
 
